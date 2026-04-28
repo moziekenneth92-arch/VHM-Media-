@@ -338,3 +338,4 @@ function printRegistrationPDF(data, fullName, logoBase64, onReady) {
     }, 700);
   };
 }
+
